@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Maheshwari Murugavel
-- 👀 I’m interested in Web Developer
-- 🌱 I am currently learning both DSA and full-stack web development. 
